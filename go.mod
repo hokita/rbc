@@ -1,4 +1,4 @@
-module github.com/hokita/rtest
+module github.com/hokita/rbc
 
 go 1.16
 
